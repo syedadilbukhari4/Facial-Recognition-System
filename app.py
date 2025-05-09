@@ -65,7 +65,7 @@ def preprocess_image(image):
 emotions = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 
 # App title and description
-st.title("Facial Emotion Recognition")
+st.title("Facial Emotion Recognition By Syed Adil Bukhari")
 st.markdown("Upload an image containing a face to predict the emotion.")
 
 # Load model
